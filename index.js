@@ -29,7 +29,7 @@ function drawRecaman(value) {
   ctx.strokeStyle = "gray";
 
   // line width
-  ctx.lineWidth = 2;
+  //ctx.lineWidth = 2;
 
  // Center Line 
   ctx.fillRect(0,canvas.height/2,canvas.width,1);
